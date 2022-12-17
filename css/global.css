@@ -9,5 +9,8 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: 'Montserrat';
-    background-color: #E5E5E5;
+    background-color: #ebeef5;
+    font-size: 16px;
+    line-height: 19.5px;
+    font-weight: 500;
 }
